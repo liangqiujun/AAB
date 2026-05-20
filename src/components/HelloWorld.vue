@@ -8,10 +8,7 @@ const count = ref(0)
 </script>
 
 <template>
-<h1>你好·娱你无瓜科技有限公司、星芒传媒AI</h1>
-<h1>你好·娱你无瓜科技有限公司、星芒传媒AI</h1>
-<h1>你好·娱你无瓜科技有限公司、星芒传媒AI</h1>
-<h1>你好·娱你无瓜科技有限公司、星芒传媒AI</h1>
+<h1>你好·娱你无瓜科技有限公司、星芒传媒</h1>
   <section id="center">
     <div class="hero">
       <img :src="heroImg" class="base" width="170" height="179" alt="" />
